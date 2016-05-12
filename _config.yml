@@ -1,0 +1,125 @@
+# Where things are
+source:       .
+destination:  ./_site
+plugins_dir:      ./_plugins
+layouts_dir:      ./_layouts
+#PAGINATION
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+#paginate:     8
+#gems : - jekyll-paginate
+
+# Handling Reading
+safe:         false
+include:      [".htaccess"]
+exclude:      []
+keep_files:   [".git", ".svn"]
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+textile_ext:  "textile"
+
+# Filtering Content
+show_drafts:  null
+limit_posts:  0
+future:       true
+unpublished:  false
+
+# Conversion
+markdown:     kramdown
+highlighter:  pygments
+lsi:          false
+excerpt_separator: "\n\n"
+
+# Serving
+detach:       false
+port:         4000
+host:         127.0.0.1
+baseurl:      "" # does not include hostname
+
+# Outputting
+permalink:     date
+paginate_path: /page:num
+timezone:      null
+
+
+#Site config
+title: 王宗荦博客
+#description: 
+#keywords: Jekyll Theme
+#url: http://pizn.github.io/kunka
+#feed: /atom.xml
+#favicon: http://jekyllrb.com/favicon.jpg
+
+#Nav config
+nav:
+  - text: 首页
+    url: /index.html
+  - text: 指爪集 
+    url: /books
+  - text: 流水集
+    url: /misc
+  - text: 忘形集 
+    url: /trans
+  - text: 所有文章 
+    url: /archive
+#  - text: 分类
+#    url: /categories.html
+#  - text: 联系我
+#    url: /contact.html
+
+#Author config
+author:
+    name: 王宗荦 
+    email: wangzongluo@gmail.com
+    imageLink: /images/me.png
+    simpleIntro: <p>闲静少言，不慕荣利。好读书，不求甚解；每有会意，便欣然忘食。</p>
+    detailIntro: <p><a target="_blank" href="http://www.wangzongluo.com/books/">指爪集</a>：读书札记</p><p><a target="_blank" href="http://www.wangzongluo.com/misc/">流水集</a>：随笔</p><p><a target="_blank" href="http://www.wangzongluo.com/bjj/">忘形集</a>：外语 </p><br><ul><li><i>"人生到处知何似 应似飞鸿踏雪泥 泥上偶然留指爪 鸿飞那复计东西。"</i> --苏轼</li><br><li><i>"自惟中岁归田，遭时承平，得优游林下，寝馈于文史以送老，书生之幸多矣，或以比顾亭林《日知录》，谓身虽不仕，而其言有可用者，则吾岂敢。"</i> --赵翼</li><br><li><i>"读书到最后，是为了让我们更宽容地去理解这个世界有多复杂。"</i> --梁文道</li><br><li><i>"Je veux être Chateaubriand ou rien."</i> --Victor Hugo</li><br><li>"欲于待，则书之成未有日也。"</i> --戴侗</li><br><li><i>"Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. Then write. If it's good, you'll find out. If it's not, throw it out of the window."</i> --William Faulkner</li></ul>
+
+#Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
+#follow:
+#  - class: icon-rss
+#    url: /atom.xml
+#  - class: icon-weibo
+#    url: http://weibo.com/pizn
+#  - class: icon-renren
+#    url: http://renren.com
+#  - class: icon-github-alt
+#    url: http://github.com/pizn
+#  - class: icon-twitter
+#    url: http://twitter.com/piznlin
+#  - class: icon-google-plus
+#    url: http://google.com
+
+#Links
+#customLinks:
+#  - item:
+#    - text: 掌心
+#      url: http://www.zhanxin.info
+#    - text: Jekyll
+#      url: http://jekyllrb.com
+#    - text: Jekyll Theme
+#      url: http://www.zhanxin.info/themes.html
+#    message: Friends
+#  - item:
+#    - text: Font Awesome
+#      url: http://fortawesome.github.io/Font-Awesome/
+#    - text: Google Font
+#      url: http://www.google.com/fonts/
+#    - text: jQuery
+#      url: http://jquery.com/
+#    message: 其他相关链接
+
+#googleAnaly, your id link UA-12345678-X
+googleAnaly:
+  config: true
+  id: UA-40169250-1
+
+#comment config
+disqus:
+  config: false
+  id: piznblog
+
+duoshuo:
+  ://kwagjj.wordpress.com/2014/06/13/change-black-background-color-in-cadencevirtuoso/config: false 
+  id: zhanxin
