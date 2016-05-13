@@ -71,7 +71,7 @@
                         
                         <li class="nav-item ">
                             <a href="/misc">
-                                流水集
+                                未省集
                             </a>
                             
                         </li>
@@ -110,7 +110,7 @@
 
         <div class="about-text">
             <p><p>闲静少言，不慕荣利。好读书，不求甚解；每有会意，便欣然忘食。</p></p>
-            <p><a target="_blank" href="http://www.wangzongluo.com/books/">指爪集</a>：读书札记</p><p><a target="_blank" href="http://www.wangzongluo.com/misc/">流水集</a>：随笔</p><p><a target="_blank" href="http://www.wangzongluo.com/bjj/">忘形集</a>：外语 </p><br><ul><li><i>"人生到处知何似 应似飞鸿踏雪泥 泥上偶然留指爪 鸿飞那复计东西。"</i> --苏轼</li><br><li><i>"自惟中岁归田，遭时承平，得优游林下，寝馈于文史以送老，书生之幸多矣，或以比顾亭林《日知录》，谓身虽不仕，而其言有可用者，则吾岂敢。"</i> --赵翼</li><br><li><i>"读书到最后，是为了让我们更宽容地去理解这个世界有多复杂。"</i> --梁文道</li><br><li><i>"Je veux être Chateaubriand ou rien."</i> --Victor Hugo</li><br><li>"欲于待，则书之成未有日也。"</i> --戴侗</li><br><li><i>"Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. Then write. If it's good, you'll find out. If it's not, throw it out of the window."</i> --William Faulkner</li></ul>
+            <p><a target="_blank" href="http://www.wangzongluo.com/books/">指爪集</a>：读书札记</p><p><a target="_blank" href="http://www.wangzongluo.com/misc/">未省集</a>：随笔</p><p><a target="_blank" href="http://www.wangzongluo.com/bjj/">忘形集</a>：外语 </p><br><ul><li><i>"人生到处知何似 应似飞鸿踏雪泥 泥上偶然留指爪 鸿飞那复计东西。"</i> --苏轼</li><br><li><i>"自惟中岁归田，遭时承平，得优游林下，寝馈于文史以送老，书生之幸多矣，或以比顾亭林《日知录》，谓身虽不仕，而其言有可用者，则吾岂敢。"</i> --赵翼</li><br><li><i>"读书到最后，是为了让我们更宽容地去理解这个世界有多复杂。"</i> --梁文道</li><br><li><i>"Je veux être Chateaubriand ou rien."</i> --Victor Hugo</li><br><li>"欲于待，则书之成未有日也。"</i> --戴侗</li><br><li><i>"Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. Then write. If it's good, you'll find out. If it's not, throw it out of the window."</i> --William Faulkner</li></ul>
         </div>
         <div class="about-image">
             <img src="/images/me.png" />
@@ -158,7 +158,7 @@
 					<div class="aside-item">
                         <h4 class="title">Contact</h4>
 						<div class="contact">
-							<a href="mailto:me@wangzongluo.com">me@wangzongluo.com</a>
+							<a href="mailto:wangzongluo@gmail.com">wangzongluo@gmail.com</a>
 					    </div>
                     </div>
 
@@ -171,7 +171,7 @@
 
                     <div class="aside-item">
                         <h4 class="title">CC License</h4>
-						<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本站采用<a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>协议，引用请注明。
+						<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本站采用<a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>协议，转载请注明出处。
                     </div>
 
                 </div>

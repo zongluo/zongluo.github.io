@@ -57,7 +57,7 @@ nav:
     url: /index.html
   - text: 指爪集 
     url: /books
-  - text: 流水集
+  - text: 未省集
     url: /misc
   - text: 忘形集 
     url: /trans
@@ -74,7 +74,7 @@ author:
     email: wangzongluo@gmail.com
     imageLink: /images/me.png
     simpleIntro: <p>闲静少言，不慕荣利。好读书，不求甚解；每有会意，便欣然忘食。</p>
-    detailIntro: <p><a target="_blank" href="http://www.wangzongluo.com/books/">指爪集</a>：读书札记</p><p><a target="_blank" href="http://www.wangzongluo.com/misc/">流水集</a>：随笔</p><p><a target="_blank" href="http://www.wangzongluo.com/bjj/">忘形集</a>：外语 </p><br><ul><li><i>"人生到处知何似 应似飞鸿踏雪泥 泥上偶然留指爪 鸿飞那复计东西。"</i> --苏轼</li><br><li><i>"自惟中岁归田，遭时承平，得优游林下，寝馈于文史以送老，书生之幸多矣，或以比顾亭林《日知录》，谓身虽不仕，而其言有可用者，则吾岂敢。"</i> --赵翼</li><br><li><i>"读书到最后，是为了让我们更宽容地去理解这个世界有多复杂。"</i> --梁文道</li><br><li><i>"Je veux être Chateaubriand ou rien."</i> --Victor Hugo</li><br><li>"欲于待，则书之成未有日也。"</i> --戴侗</li><br><li><i>"Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. Then write. If it's good, you'll find out. If it's not, throw it out of the window."</i> --William Faulkner</li></ul>
+    detailIntro: <p><a target="_blank" href="http://www.wangzongluo.com/books/">指爪集</a>：读书札记</p><p><a target="_blank" href="http://www.wangzongluo.com/misc/">未省集</a>：随笔</p><p><a target="_blank" href="http://www.wangzongluo.com/bjj/">忘形集</a>：外语 </p><br><ul><li><i>"人生到处知何似 应似飞鸿踏雪泥 泥上偶然留指爪 鸿飞那复计东西。"</i> --苏轼</li><br><li><i>"自惟中岁归田，遭时承平，得优游林下，寝馈于文史以送老，书生之幸多矣，或以比顾亭林《日知录》，谓身虽不仕，而其言有可用者，则吾岂敢。"</i> --赵翼</li><br><li><i>"读书到最后，是为了让我们更宽容地去理解这个世界有多复杂。"</i> --梁文道</li><br><li><i>"Je veux être Chateaubriand ou rien."</i> --Victor Hugo</li><br><li>"欲于待，则书之成未有日也。"</i> --戴侗</li><br><li><i>"Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. Then write. If it's good, you'll find out. If it's not, throw it out of the window."</i> --William Faulkner</li></ul>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 #follow:
