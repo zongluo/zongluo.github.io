@@ -5,24 +5,15 @@ date:   2016-07-05
 category: "misc"
 ---
 
-Under the wide and starry sky,   
-
-Dig the grave and let me lie.   
-
-Glad did I live and gladly die,   
-
-And I laid me down with a will.   
-
-This be the verse you grave for me;   
-
-Here he lies where he longed to be,   
-
-Home is the sailor, home from sea,   
-
-And the hunter home from the hill.   
-
-
-—斯蒂文森《安魂曲》
+> Under the wide and starry sky, 
+> Dig the grave and let me lie. 
+> Glad did I live and gladly die, 
+> And I laid me down with a will. 
+> This be the verse you grave for me; 
+> Here he lies where he longed to be, 
+> Home is the sailor, home from sea, 
+> And the hunter home from the hill. 
+> —斯蒂文森《安魂曲》
 
 爷爷去世三年了。三年来，我很少想到他，正如他生前，我也很少想到他一样。
 
