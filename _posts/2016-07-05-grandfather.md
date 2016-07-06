@@ -43,26 +43,13 @@ category: "misc"
 On July 6, 2013, I wrote:
 
 > My grandfather passed away yesterday midnight, my father told me this bad news this noon while I was at Starbucks waiting for my Latte.  
-
-> 
-> I couldn't think of a suitable word to express my feelings and it was hard to say anything on the phone.  
-
-> 
+> I couldn't think of a suitable word to express my feelings and it was hard to say anything on the phone.    
 > In my memory, since I was very small, my grandfather had been working all day long, farming, cooking, doing everything to raise the big family. Even when I was at his house, I could only see him when we ate together. He was out otherwise working.  He was one of the very typical Chinese farmers on this land.  
-
-> 
 > He was kind to me and always asked me to write him letters though he couldn't read, but I was too small at first and even didn't know how to write "grandfather" in Chinese. Later on, I could but I never did it. Now there would be no chance for me to do it. I think, subconsciously, I never cherished his love for me. Not only did I not write to him, but I didn't talk to him much. He was not educated and I went to school, so I thought there was nothing in common between us. Now at this very time, I know it doesn't matter what I talk or write to him, what does matter is the fact that I write or talk to him.   
-
 > His image is quite blur to me, I couldn't recall the stories between us. This makes me feel bad.  
-
 > He had been falling in bed for two years, the disease has been torturing him so bad because he couldn't talk, couldn't move, and he couldn't read, so he had nothing to do except sitting in bed and waiting for the day to come. He was upset with the disease and the trouble he has brought to the family.  
-
 > I feel so sorry that I didn't do anything for him during this period, I didn't take care of him ardently and instinctually felt alien to him because he was so poor due to the disease.   
-
 > On the phone, my father told me that everybody( my grandparents have seven children, three sons, four daughters, my father ranks the second. ) felt a relief, since they have been having a hard time too these years, and now they can take a rest.  Everything has been taken care of, my grandfather has been buried—my aunts wouldn't let him incinerated.   
-
 > My grandfather was nobody, nothing glorious in his life. He passed away without leaving anything except us, his offsprings. He never owned a cellphone, never used computers, never had a chance to go outside of the village to take a look at the rapidly changing world.    
-
 > He is not religious, and I have no idea where he would go afterlife. Anyhow, he won't have a heavily loaded life anymore and I wish he could be at peace.  
-
 > Goodbye, grandpa.
