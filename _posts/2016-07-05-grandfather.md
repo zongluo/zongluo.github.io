@@ -7,9 +7,7 @@ category: "misc"
 
 
 > Under the wide and starry sky,  
-> 
 > Dig the grave and let me lie.  
-> 
 > Glad did I live and gladly die,  
 > 
 > And I laid me down with a will.  
