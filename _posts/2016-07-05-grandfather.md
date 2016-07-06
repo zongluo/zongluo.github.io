@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  爷爷
+title: 爷爷
 date:   2016-07-05
-category: “misc”
+category: "misc"
 ---
 
 Under the wide and starry sky,   
