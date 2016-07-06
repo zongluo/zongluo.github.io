@@ -8,18 +8,12 @@ category: "misc"
 
 > Under the wide and starry sky,  
 > Dig the grave and let me lie.  
-> Glad did I live and gladly die,  
-> 
-> And I laid me down with a will.  
-> 
-> This be the verse you grave for me;  
-> 
-> Here he lies where he longed to be,  
-> 
-> Home is the sailor, home from sea,  
-> 
-> And the hunter home from the hill.  
-> 
+> Glad did I live and gladly die,   
+> And I laid me down with a will.   
+> This be the verse you grave for me;   
+> Here he lies where he longed to be,   
+> Home is the sailor, home from sea,   
+> And the hunter home from the hill.   
 > —斯蒂文森《安魂曲》
 
 爷爷去世三年了。三年来，我很少想到他，正如他生前，我也很少想到他一样。
@@ -50,9 +44,12 @@ On July 6, 2013, I wrote:
 
 > My grandfather passed away yesterday midnight, my father told me this bad news this noon while I was at Starbucks waiting for my Latte.   
 > 
+> 
 > I couldn't think of a suitable word to express my feelings and it was hard to say anything on the phone.  
 > 
+> 
 > In my memory, since I was very small, my grandfather had been working all day long, farming, cooking, doing everything to raise the big family, even when I was at his house, I could only see him when we ate together, he was out otherwise working.  He was one of the very typical Chinese farmers on this land.   
+> 
 > 
 > He was kind to me and always asked me to write him letters though he couldn't read, I was too small at first and even didn't know how to write "grandfather" in Chinese. Later on, I could but I never did it, now there would be no chance for me to do it. I think, subconsciously, I never cherished his love for me, not only did I not write to him, but I didn't talk to him much. He was not educated and I went to school, so I thought there was nothing in common between us. Now at this very time, I know it doesn't matter what I talk or write to him, what does matter is the fact that I write or talk to him.    
 > 
