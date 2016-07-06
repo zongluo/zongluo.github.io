@@ -10,20 +10,6 @@
 		<real>475470964</real>
 		<key>sheetClusters</key>
 		<dict>
-			<key>2016-01-01-getting-started.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>484730211.53166503</real>
-				<key>lastModification</key>
-				<real>484730211.53166503</real>
-				<key>version</key>
-				<dict>
-					<key>e0feeb047d5c22953a4a962539e7e0a25318fc944bef78163d10d42c29522b2f</key>
-					<integer>2</integer>
-				</dict>
-			</dict>
 			<key>2016-05-11-wang-ning-mei.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -44,12 +30,39 @@
 					<integer>5</integer>
 				</dict>
 			</dict>
+			<key>2016-06-05-Fan-Yi-Nai-Da-Dao.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>489458360.18613797</real>
+				<key>lastModification</key>
+				<real>489458360.18613797</real>
+				<key>version</key>
+				<dict>
+					<key>e0feeb047d5c22953a4a962539e7e0a25318fc944bef78163d10d42c29522b2f</key>
+					<integer>13</integer>
+				</dict>
+			</dict>
+			<key>2016-07-05-Grandfather.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>489461225.89399898</real>
+				<key>version</key>
+				<dict>
+					<key>e0feeb047d5c22953a4a962539e7e0a25318fc944bef78163d10d42c29522b2f</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2016-01-01-getting-started.md</string>
+			<string>2016-06-05-Fan-Yi-Nai-Da-Dao.md</string>
+		</array>
+		<array>
+			<string>2016-07-05-Grandfather.md</string>
 		</array>
 		<array>
 			<string>2016-05-11-wang-ning-mei.md</string>
@@ -70,7 +83,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>e0feeb047d5c22953a4a962539e7e0a25318fc944bef78163d10d42c29522b2f</key>
-			<integer>6</integer>
+			<integer>15</integer>
 		</dict>
 	</dict>
 </dict>
